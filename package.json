@@ -1,0 +1,19 @@
+{
+  "name": "developerprofilegenerator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nadia5125/developer-profile.git"
+  },
+  "author": "Nadia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nadia5125/developer-profile/issues "
+  },
+  "homepage": "https://github.com/Nadia5125/developer-profile#readme",
+  "description": "testing profile generator"
+}
