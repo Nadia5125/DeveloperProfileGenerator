@@ -7,13 +7,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nadia5125/developer-profile.git"
+    "url": "git+https://github.com/Nadia5125/developerprofilegenerator.git"
   },
   "author": "Nadia",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Nadia5125/developer-profile/issues "
+    "url": "https://github.com/Nadia5125/developerprofilegenerator/issues "
   },
-  "homepage": "https://github.com/Nadia5125/developer-profile#readme",
+  "homepage": "https://github.com/Nadia5125/developerprofilegenerator#readme",
   "description": "testing profile generator"
 }
