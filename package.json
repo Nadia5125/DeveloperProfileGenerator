@@ -1,19 +1,26 @@
 {
   "name": "developerprofilegenerator",
   "version": "1.0.0",
+  "description": "## Description",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nadia5125/developerprofilegenerator.git"
+    "url": "git+https://github.com/Nadia5125/DeveloperProfileGenerator.git"
   },
   "author": "Nadia",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Nadia5125/developerprofilegenerator/issues "
+    "url": "https://github.com/Nadia5125/DeveloperProfileGenerator/issues"
   },
-  "homepage": "https://github.com/Nadia5125/developerprofilegenerator#readme",
-  "description": "testing profile generator"
+  "homepage": "https://github.com/Nadia5125/DeveloperProfileGenerator#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "html-pdf": "^2.2.0",
+    "inquirer": "^7.0.4",
+    "open": "^7.0.0"
+  },
+  "devDependencies": {}
 }
