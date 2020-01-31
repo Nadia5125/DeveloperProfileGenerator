@@ -1,7 +1,7 @@
 const colors = {
     green: {
-      wrapperBackground: "#E6E1C3",
-      headerBackground: "#C1C72C",
+      wrapperBackground: "#4682B4",
+      headerBackground: "#20B2AA",
       headerColor: "black",
       photoBorderColor: "#black"
     },
