@@ -20,8 +20,11 @@ Developer Profile Generator is using HTML, node.js, npm package and github link 
 
 # Technology Used
 . Node.js
+
 . HTML
+
 . CSS
+
 . JS 
 
 
