@@ -4,11 +4,13 @@ Developer Profile Generator is using HTML, node.js, npm package and github link 
 
 
 
+
 # Features
 
 •	Options choose color of your choice.
 
 •	Displays: Picture, Name, Company,Count of repos, Count of followers, and Count of people following.
+
 
 
 
@@ -21,4 +23,10 @@ Developer Profile Generator is using HTML, node.js, npm package and github link 
 . JS 
 
 
-# Dirrect to the link >> https://github.com/Nadia5125/DeveloperProfileGenerator/blob/master/profile.pdf
+
+
+
+
+
+# Dirrect to the link 
+https://github.com/Nadia5125/DeveloperProfileGenerator/blob/master/profile.pdf
