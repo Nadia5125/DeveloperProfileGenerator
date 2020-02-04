@@ -1,10 +1,10 @@
 # Developer Profile Generator
+
 Developer Profile Generator is using HTML, node.js, npm package and github link to  generate to a pdf file. Also it uses github user name and favorite color of your choice to make a great github prolife result for the user.
 
 
 
 #Features
-
 •	Options choose color of your choice.
 
 •	Displays: Picture, Name, Company,Count of repos, Count of followers, and Count of people following.
@@ -12,7 +12,8 @@ Developer Profile Generator is using HTML, node.js, npm package and github link 
 
 
 
-# Technoligy Used
+
+#Technology Used
 .Node.js
 .HTML
 .CSS
